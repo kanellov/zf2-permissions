@@ -1,0 +1,38 @@
+{
+    "name": "kanellov/zf2-permissions",
+    "description": "Zend Framework 2 Permissions extras",
+    "version": "0.0.1",
+    "type": "library",
+    "keywords": [
+        "zend framework", "permissions", "acl", "rbac"
+    ],
+    "homepage": "https://github.com/kanellov/zf2-permissions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vassilis Kanellopoulos",
+            "email": "contact@kanellov.com",
+            "homepage": "http://kanellov.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "contact@kanellov.com",
+        "issues": "https://github.com/kanellov/zf2-permissions/issues",
+        "source": "https://github.com/kanellov/zf2-permissions"
+    },
+    "require": {
+        "php": ">=5.3.23",
+        "zendframework/zend-permissions-acl": "~2.0",
+        "zendframework/zend-permissions-rbac": "~2.0"
+    },
+    "require-dev": {
+        "funkatron/funit": "0.6.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Knlv\\": "src"
+        }
+    }
+
+}
