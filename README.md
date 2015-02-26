@@ -1,6 +1,6 @@
 # zf2-permissions
 
-[![Build Status](https://travis-ci.org/kanellov/zf2-permissions.svg?branch=develop)](https://travis-ci.org/kanellov/zf2-permissions.svg?branch=develop)
+[![Build Status](https://travis-ci.org/kanellov/zf2-permissions.svg?branch=develop)](https://travis-ci.org/kanellov/zf2-permissions)
 
 Adds extra functionality for [Component_ZendPermissionsRbac](https://github.com/zendframework/Component_ZendPermissionsRbac) and [Component_ZendPermissionsAcl](https://github.com/zendframework/Component_ZendPermissionsAcl)
 
