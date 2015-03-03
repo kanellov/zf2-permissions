@@ -1,7 +1,6 @@
 {
     "name": "kanellov/zf2-permissions",
     "description": "Zend Framework 2 Permissions extras",
-    "version": "0.0.1",
     "type": "library",
     "keywords": [
         "zend framework", "permissions", "acl", "rbac"
